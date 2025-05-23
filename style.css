@@ -61,8 +61,13 @@ h3{
 
 .navbar a {
     text-decoration: none;
+    color: #4e5c32;
+    font-weight: 500;
+}
+
+.navbar a:hover {
     color: #7f9856;
-    font-weight: bold;
+    
 }
 
 .hero {
@@ -84,6 +89,7 @@ h3{
 .highlight {
     color: #7f9856;
 }
+
 
 .photo img {
     width: 250px;
