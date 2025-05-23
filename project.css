@@ -1,0 +1,42 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    color: #7f9856;
+    padding: 0;
+}
+
+.about-project{
+    
+}
+
+.about-project img{
+    width: 100%;
+}
+
+.about-project p{
+    max-width: 60%;
+    line-height: 1.8;
+}
+
+.subtitle{
+    margin-top: -2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #595f4f;
+}
+
+.project-par{
+    letter-spacing: 0.04rem;
+}
+
+.instagram-media {
+    width: 48%; /* Define a largura de cada embed */
+}
+
+.instagram-media-container {
+    display: flex; /* Ativa o Flexbox */
+    justify-content: space-between; /* Espaço entre os embeds */
+    align-items: flex-start; /* Alinha os embeds no topo */
+    gap: 1rem; /* Espaçamento entre os embeds */
+    flex-wrap: wrap; /* Permite que os embeds quebrem linha em telas menores */
+}
